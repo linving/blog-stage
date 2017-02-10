@@ -1,5 +1,5 @@
 
-API接口文档（前方高能误入）
+API接口文档
 ---
 
 
@@ -50,11 +50,11 @@ data:
     "username": "username",
     "password": "password",
     "is_admin":"true",
-    "full_name":"X-SONGTAO",
-    "position":"前端工程师&&Nodejs",
-    "address":"江苏-苏州",
-    "motto":"全栈工程师薪水如何？没15k我不考虑。",
-    "personal_state":"各位好，我是X-SONGTAO！",
+    "full_name":"Wusheng",
+    "position":"前端工程师",
+    "address":"中国-武汉",
+    "motto":"---------",
+    "personal_state":"各位好，我是Wusheng！",
     "img_url":"http://your.head.img"
 }
 resopnse:
@@ -66,11 +66,11 @@ resopnse:
     "username": "username",
     "password": "password",
     "is_admin": true,
-    "full_name": "X-SONGTAO",
-    "position": "前端工程师&&Nodejs",
-    "address": "江苏-苏州",
-    "motto": "全栈工程师薪水如何？没15k我不考虑。",
-    "personal_state": "各位好，我是X-SONGTAO！",
+    "full_name": "Wusheng",
+    "position": "前端工程师",
+    "address": "中国-武汉",
+    "motto": "-------",
+    "personal_state": "各位好，我是Wusheng！",
     "img_url": "http://your.head.img",
     "_id": "_id",
     "login_info": [
