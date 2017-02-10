@@ -1,7 +1,4 @@
 'use strict';
-/**
- * Created by xiangsongtao on 16/3/4.
- */
 let mongoose = require('mongoose');
 
 //数据库查询同一错误处理
